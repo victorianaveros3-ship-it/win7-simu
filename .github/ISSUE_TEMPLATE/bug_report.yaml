@@ -10,6 +10,7 @@ body:
       options:
         - Android
         - Web
+        - Both
       default: 0
     validations:
       required: true
