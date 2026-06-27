@@ -11,8 +11,7 @@ This repo only serves as a place for [reporting and tracking issues](https://git
 ## Find out more
 
 - 💻 [Access Win7 Simu from the web](https://win7simu.visnalize.com)
-- 📲 [Download Win7 Simu from Play Store](https://play.google.com/store/apps/details?id=com.visnalize.win7simu)
-- 🌍 [Homepage](https://visnalize.com/win7simu/about.html)
-- 💭 [FAQs](https://visnalize.com/win7simu/faq.html)
-- 📝 [Changelog](https://visnalize.com/win7simu/changelog.html)
+- 📲 [Download Win7 Simu from Play Store](https:
+- hvchhggj
+- 
 - 🌐 [Translations](https://crowdin.com/project/win7simu)
